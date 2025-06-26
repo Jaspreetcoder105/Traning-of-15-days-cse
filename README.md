@@ -34,3 +34,31 @@ Linux is an open-source operating system (OS) that is widely used in computers, 
 | It's highly customizable | It has limited customisation options|
 |linux system is more helpful for programming | On the other hand we can use window for gaming|
 ### 《《And how to install linux on window system》》
+##Day-2 (26-june-25):
+### Booting:
+fBooting is the process of starting a computer and loading the operating system into memory. It's the sequence of events that occurs when you power on your computer, from the initial hardware checks to the loading of the operating system
+Types of Booting:
+
+1. Cold Booting: Starting a computer from a powered-off state.(in mac and linux os)
+
+2. Warm Booting: Restarting a computer without
+
+powering it off (e.g., using the restart option). (in wondow)
+ ### 《《what is kerenel?》》
+The kernel is the core part of the Linux operating system. It's like the brain of the system, managing hardware resources and providing basic services to applications.
+#### 《《key functions of kerenel 》》
+◇hardware management 
+◇process management
+◇memory management
+### 《《shell:》》
+The shell is a program that interacts with the kernel and provides a user interface to the Linux system. It's like a command center where you can give instructions to the system.
+
+Key Functions:
+
+1. Command Execution: The shell executes commands and scripts.
+
+2. User Interface: The shell provides a command-line interface (CLI) for users to interact with the system.
+
+### shells are divided into two parts.
+■ command shell and ■ graphical shell.
+

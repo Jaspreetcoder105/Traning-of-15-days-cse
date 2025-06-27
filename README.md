@@ -34,7 +34,7 @@ Linux is an open-source operating system (OS) that is widely used in computers, 
 | It's highly customizable | It has limited customisation options|
 |linux system is more helpful for programming | On the other hand we can use window for gaming|
 ### 《《And how to install linux on window system》》
-##Day-2 (26-june-25):
+## Day-2 (26-june-25):
 ### Booting:
 fBooting is the process of starting a computer and loading the operating system into memory. It's the sequence of events that occurs when you power on your computer, from the initial hardware checks to the loading of the operating system
 Types of Booting:
@@ -105,3 +105,16 @@ Running `whatis command` always returns "nothing appropriate"
 `whatis` uses an index created and maintained by `mandb` to locate the documentation you're looking for. If said index doesn't exist, or if the command you're looking for isn't in the existing index, you'll see Nothing appropriate. If your setup doesn't have a `mandb` index yet, you can create one by running `sudo mandb`
 
 ![](../images/whatis_solved.jpg)
+### File system structure:
+| NAME | DESCRIPTION                                                                   |
+| --------- | ----------------------------------------------------------------------------- |
+| `/`       | The slash / character denotes the root of the filesystem tree. exp: Trunk of a tree.|
+| `/home`   | Contains personal directories of user. |
+| `/lib`    | Contains system libraries and critical file.|
+| `/bin`    | Contains user executable files.|
+| `/boot`   | Contains all the files that are required for booting.|
+| `/dev`    | Contains hardware and development files.|
+| `/media`  | Mount points for removable media.|
+| `/mnt`    | Temporarily mounted filesystems.|
+| `/opt`    | Contains optional files. |
+

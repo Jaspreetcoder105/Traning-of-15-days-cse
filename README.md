@@ -25,7 +25,7 @@ Linux is an open-source operating system (OS) that is widely used in computers, 
  •Cloud computing
 
 
-### 《《Difference between linux and window》》
+### 《《 Difference between linux and window 》》
 |linux.  | window |
 |-------|--------|
 |It is a open source | It's a close source|
@@ -53,16 +53,21 @@ The kernel is the core part of the Linux operating system. It's like the brain o
 ### 《《shell:》》
 The shell is a program that interacts with the kernel and provides a user interface to the Linux system. It's like a command center where you can give instructions to the system.
 
-Key Functions:
+#### <<Key Functions:>>
 
 1. Command Execution: The shell executes commands and scripts.
 
 2. User Interface: The shell provides a command-line interface (CLI) for users to interact with the system.
 
 ### shells are divided into two parts.
-■ command shell and ■ graphical shell.
+■ command shell 
+![image](https://github.com/user-attachments/assets/a9bf2293-44bf-416b-8f91-0672f8ea9885)
 
-Commands:
+■ graphical shell.
+![image](https://github.com/user-attachments/assets/ef3a27b6-3a15-47c0-b13f-0f911393166f)
+
+
+### Commands:
 - `date`: Returns current date.
 - `whoami`: Returns the current domain and user name.
 - `ls` (list): Returns content of a specified Directory
@@ -120,4 +125,7 @@ Running `whatis command` always returns "nothing appropriate"
 | `/media`  | Mount points for removable media.|
 | `/mnt`    | Temporarily mounted filesystems.|
 | `/opt`    | Contains optional files. |
+
+![image](https://github.com/user-attachments/assets/19f4e61f-b1c3-4b79-bb14-aaaafc5a4905)
+
 

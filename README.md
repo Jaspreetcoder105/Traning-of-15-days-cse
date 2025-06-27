@@ -62,3 +62,46 @@ Key Functions:
 ### shells are divided into two parts.
 ■ command shell and ■ graphical shell.
 
+Commands:
+- `date`: Returns current date.
+- `whoami`: Returns the current domain and user name.
+- `ls` (list): Returns content of a specified Directory
+- `cd`: Changes directory.
+  
+![](../images/date_whoami_ls_cd.jpg)
+
+- `mkdir`: Creates a new directory.
+- `pwd`: Prints the current working directory.
+  
+![](../images/mkdir_pwd.jpg)
+
+
+- `touch`: Creates empty file.
+- `cat`: Creates file with content.
+  
+![](../images/cat_touch.jpg)
+  
+- `whereis`: Finds the location of specified file.
+  
+    ![](../images/whereis.jpg)
+
+- `mv`: To move or rename a file.
+  
+  ![](../images/mv.jpg)
+  
+- `cp`: To copy content of a file to the other.
+  
+  ![](../images/cp.png)
+
+- `whatis`: Gives short description of a command.
+  
+## Issues faced:
+Running `whatis command` always returns "nothing appropriate"
+
+![](../images/whatis_error.jpg)
+
+**Solution found:**
+
+`whatis` uses an index created and maintained by `mandb` to locate the documentation you're looking for. If said index doesn't exist, or if the command you're looking for isn't in the existing index, you'll see Nothing appropriate. If your setup doesn't have a `mandb` index yet, you can create one by running `sudo mandb`
+
+![](../images/whatis_solved.jpg)

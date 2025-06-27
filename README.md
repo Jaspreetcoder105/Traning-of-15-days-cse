@@ -1,4 +1,4 @@
-# Traning-of-15-days-cse
+# Traning 
 ## Day-1 (25-june-25):
 *On the first day of traning*
 ,I've leared about: 

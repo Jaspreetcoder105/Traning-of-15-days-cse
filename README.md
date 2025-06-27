@@ -68,33 +68,36 @@ Commands:
 - `ls` (list): Returns content of a specified Directory
 - `cd`: Changes directory.
   
-![](../images/date_whoami_ls_cd.jpg)
 
 - `mkdir`: Creates a new directory.
 - `pwd`: Prints the current working directory.
   
-![](../images/mkdir_pwd.jpg)
 
 
 - `touch`: Creates empty file.
 - `cat`: Creates file with content.
   
-![](../images/cat_touch.jpg)
   
 - `whereis`: Finds the location of specified file.
   
-    ![](../images/whereis.jpg)
 
 - `mv`: To move or rename a file.
   
-  ![](../images/mv.jpg)
   
 - `cp`: To copy content of a file to the other.
   
-  ![](../images/cp.png)
 
 - `whatis`: Gives short description of a command.
-  
+
+  ![sc6](https://github.com/user-attachments/assets/067afe97-881b-4c32-a0b2-22d1ff6adbb2)
+  ![sc5](https://github.com/user-attachments/assets/31750873-a9a1-4e41-aee1-63a7a558095f)
+  ![sc4](https://github.com/user-attachments/assets/ff57149b-4d54-4c3f-92fe-c737ed454307)
+  ![sc3](https://github.com/user-attachments/assets/ad2c5093-d875-42a5-bb52-2c9c7244af25)
+  ![sc2](https://github.com/user-attachments/assets/03fef69e-472e-4548-8643-8f45d5033309)
+  ![sc1](https://github.com/user-attachments/assets/dc8f025c-4569-4ad1-8f57-5cff8d9f611b)
+
+
+ 
 ## Issues faced:
 Running `whatis command` always returns "nothing appropriate"
 

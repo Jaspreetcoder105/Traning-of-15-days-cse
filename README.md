@@ -195,5 +195,19 @@ The pipe is used to combine two or more commands, and in this, the output of one
 
 ![Screenshot (21)](https://github.com/user-attachments/assets/f5e8b374-cd0b-47e6-ab97-31dc8cbcfc21)
 
+### Programing using shell programming:
+#### Programm to read and display the details of person:
+![Screenshot (23)](https://github.com/user-attachments/assets/dd24b55e-1869-43c0-b4e2-7f9184eec996)
+
+![Screenshot (22)](https://github.com/user-attachments/assets/03763006-6f7e-4b78-b83b-e08b2ab6f21f)
+#### Programm for multiplication table of any number:
+![Screenshot (25)](https://github.com/user-attachments/assets/be119d6a-2b53-46b0-8b40-1405695ebf9a)
+
+![Screenshot (24)](https://github.com/user-attachments/assets/7583ba25-510c-47da-a2af-50b1633ffc7e)
+#### Programm to compare values:
+
+
+
+
 
 

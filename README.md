@@ -34,6 +34,11 @@ Linux is an open-source operating system (OS) that is widely used in computers, 
 | It's highly customizable | It has limited customisation options|
 |linux system is more helpful for programming | On the other hand we can use window for gaming|
 ### 《《And how to install linux on window system》》
+there are few softwares that can run linux OS without annoying window system.
+#### VM ware:
+It is a software that is use to run multiple Virtual machines. it is basically paid software but there are some free verions of it.
+#### Virtual Machine:
+Virtual machine is virtual system that allow to run a OS on it. (eg. linux)
 ## Day-2 (26-june-25):
 ### Booting:
 fBooting is the process of starting a computer and loading the operating system into memory. It's the sequence of events that occurs when you power on your computer, from the initial hardware checks to the loading of the operating system
@@ -130,6 +135,17 @@ Running `whatis command` always returns "nothing appropriate"
 
 
 ## day3(27-june-25):
+### Dual boot:
+Dual boot means installing two operating systems (OSes) on the same computer, so you can choose which one to use when the computer starts.
+### Bare Metal Instalation:
+It the method in which the software is downloaded in any system using a physical drive (pen drive).
+### Partition scheme:
+1. MBR : Master Boot Record
+   Works on most old computers (BIOS systems) and Can have up to 4 primary partitions. It supports drives up to 2 TB only.
+2. GPT : GPT (GUID Partition Table) is a newer and better partitioning system used with modern computers. It Supports more than 100 partitions. It Works with large hard drives (over 2 TB) and Stores multiple copies of data for safety.
+### ISO file:
+An ISO file (or ISO image) is a copy of an entire CD, DVD, or installation disc saved as a single file. It's often used to distribute operating systems or software.
+
 ### permissions and shell programming:
 #### file and directory permisions:
 #### *chmod* (change mode):
@@ -147,8 +163,37 @@ By using this command the file can be converted into readable by everyone but no
 ![Screenshot (16)](https://github.com/user-attachments/assets/56b77c08-0a89-47fb-90a7-480e4b62f51c)
 the result will be :
 ![Screenshot (15)](https://github.com/user-attachments/assets/bcd2723b-5d45-45ab-ab5b-db4a452a81f0)
+#### Echo  command:
+This command is used to print the string or a text.
+![Screenshot (17)](https://github.com/user-attachments/assets/ea817d1d-d9be-4ccb-93cc-60af80f21d69)
+### Redirection :
+It does the given below tasks:
+~Take input from a file instead of typing it.
+~Send output to a file instead of the screen.
+#### types of Redirection:
+1.Standard Output Redirection (>)
+Purpose: Sends output to a file (overwrites if it exists).
+![Screenshot (18)](https://github.com/user-attachments/assets/b18e82e9-b944-4f66-8fef-0ab24a409b61)
+
+Saves output of ls to files.txt.
+
+2.Append Output (>>)
+Purpose: Sends output to a file without overwriting.
+
+![Screenshot (19)](https://github.com/user-attachments/assets/a4c74afe-929f-4404-b0c1-63a44322302c)
 
 
+3.Standard Input Redirection (<)
+Purpose: Takes input from a file instead of keyboard.
+
+![Screenshot (20)](https://github.com/user-attachments/assets/f60a39d3-aaa6-447e-9b6f-7f7a9972933d)
+
+
+Sorts the contents of names.txt.
+### Pipes:
+The pipe is used to combine two or more commands, and in this, the output of one command acts as input to another command.
+
+![Screenshot (21)](https://github.com/user-attachments/assets/f5e8b374-cd0b-47e6-ab97-31dc8cbcfc21)
 
 
 

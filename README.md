@@ -129,3 +129,26 @@ Running `whatis command` always returns "nothing appropriate"
 ![image](https://github.com/user-attachments/assets/19f4e61f-b1c3-4b79-bb14-aaaafc5a4905)
 
 
+## day3(27-june-25):
+### permissions and shell programming:
+#### file and directory permisions:
+#### *chmod* (change mode):
+it is use to change the access of the files.
+notations:
+#### *chmod 444*:
+it changes file to readable only no one can change the data inside the file.
+![Screenshot (14)](https://github.com/user-attachments/assets/2599fdfe-168c-44f9-868b-8f4bd0504da6)
+the result will be :
+![Screenshot (13)](https://github.com/user-attachments/assets/72522676-65d9-4328-9586-f96bf263b527)
+#### *chmod +x*:
+it simply give permission to read the file
+#### *chmod 644*:
+By using this command the file can be converted into readable by everyone but no one can change the data of the file expect the owner.
+![Screenshot (16)](https://github.com/user-attachments/assets/56b77c08-0a89-47fb-90a7-480e4b62f51c)
+the result will be :
+![Screenshot (15)](https://github.com/user-attachments/assets/bcd2723b-5d45-45ab-ab5b-db4a452a81f0)
+
+
+
+
+

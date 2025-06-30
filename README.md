@@ -210,6 +210,9 @@ The pipe is used to combine two or more commands, and in this, the output of one
 #### Hardware of computers 🖥:*Computer Hardware:*
 
 Computer hardware refers to the physical components of a computer system. Here are some hardware components:
+![image](https://github.com/user-attachments/assets/de2c97cd-f7c9-4728-9e42-c7e823689cef)
+#### Types of hardware can be specified as below:
+![image](https://github.com/user-attachments/assets/3ee9b75e-4eab-4164-be44-7d5296d518c4)
 
 ##### Internal Hardware:
 1. *CPU (Central Processing Unit):* The brain of the computer, executes instructions.
@@ -235,6 +238,7 @@ Computer hardware refers to the physical components of a computer system. Here a
 Computer hardware refers to the physical parts of a computer system, including internal components like the CPU and RAM, and external devices like monitors and keyboards. These components work together to enable the computer to process and store data.
 #### Motherboard:
 The motherboard is the main circuit board of a computer that connects all hardware components together. It's like the backbone of the system, allowing different parts to communicate and work together.
+![image](https://github.com/user-attachments/assets/11c49033-cb19-4e96-ab5e-fea523e63c65)
 
 ##### Parts of motherboard:
 1. CPU Socket: To Installs CPU.
@@ -254,6 +258,16 @@ The motherboard is the main circuit board of a computer that connects all hardwa
 8. USB Ports: Connects peripherals (keyboard, mouse).
 
 9. Audio Connectors: Connects audio devices (speakers, headphones)
+![image](https://github.com/user-attachments/assets/e7d6f9ca-4153-4111-8e8c-cc3587d0e978)
+
+
+### RAM:
+RAM (Random Access Memory) is the short-term memory of a computer. It temporarily stores the data and programs your computer is using right now so it can access them quickly. The more RAM you have, the more things your computer can do at once without slowing down.
+![image](https://github.com/user-attachments/assets/55a42bf2-ceb4-491b-a6e1-e7cf587cfdee)
+
+#### Hard Drive:
+A **hard drive** (or **hard disk drive**/ HDD) is the part of a computer that stores all your data like your photos, documents, programs, and even the computer’s operating system. Unlike RAM, which is temporary, a hard drive keeps your files even when the computer is turned off. It's like your computer’s long-term memory.
+![image](https://github.com/user-attachments/assets/b983dec5-4233-42a5-b912-758d1b8be20f)
 
 
 

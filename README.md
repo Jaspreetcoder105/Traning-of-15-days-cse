@@ -312,7 +312,7 @@ ROM stands for Read-Only Memory. It is a type of memory in a computer that store
 Cache memory is needed because it’s **faster than RAM** and is located **closer to the CPU**. It stores **frequently used data**, so the CPU can access it quickly without waiting, which makes the computer run faster and more efficiently.
 ### Process of booting:
 
-### 🔄 **What is Booting?**
+###  **What is Booting?**
 
 Booting is what happens **when you turn on your computer** — it’s the process that gets everything ready so you can use it.
 
@@ -340,6 +340,8 @@ Booting is what happens **when you turn on your computer** — it’s the proces
 ~ Simple  example to remember:
 
 It’s like waking up, brushing your teeth, putting on clothes, and getting ready for the day. That’s what your computer is doing when it boots.
+
+![image](https://github.com/user-attachments/assets/823736e6-fa84-4099-8e03-247dfe543b94)
 
 
 

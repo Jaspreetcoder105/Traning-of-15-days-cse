@@ -333,12 +333,12 @@ Cache memory is needed because it’s **faster than RAM** and is located **close
 
 ### Process of booting:
 
-###  **What is Booting?**
+###  What is Booting?
 
 Booting is what happens **when you turn on your computer** — it’s the process that gets everything ready so you can use it.
 
 
-**Step-by-Step (Simple Words):**
+Step-by-Step (Simple Words):
 
 1. **Power On** 
    You press the power button. The computer wakes up.

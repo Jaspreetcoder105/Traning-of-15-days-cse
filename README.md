@@ -303,13 +303,14 @@ ROM stands for Read-Only Memory. It is a type of memory in a computer that store
 | **Access Time**              | Slower compared to cache             | Extremely quick (nanoseconds)          |
 | **Controlled By**            | Managed by OS and programs           | Managed automatically by hardware      |
 | **Type of Memory**           | Volatile (data lost when power off) | Volatile                               |
-![image](https://github.com/user-attachments/assets/add809a8-fb63-4513-b69a-9c79a141c07e)
 
 ##### Simple Analogy:
 -  **RAM**: Like a big table — you put all your work materials on it.
 -  **Cache**: Like a small tray right next to your hand — it holds only the most used items for super-fast access.
 ##### Why cache memory is needed:
 Cache memory is needed because it’s **faster than RAM** and is located **closer to the CPU**. It stores **frequently used data**, so the CPU can access it quickly without waiting, which makes the computer run faster and more efficiently.
+![image](https://github.com/user-attachments/assets/add809a8-fb63-4513-b69a-9c79a141c07e)
+
 ### Process of booting:
 
 ###  **What is Booting?**

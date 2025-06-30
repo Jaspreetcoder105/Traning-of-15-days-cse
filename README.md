@@ -265,9 +265,82 @@ The motherboard is the main circuit board of a computer that connects all hardwa
 RAM (Random Access Memory) is the short-term memory of a computer. It temporarily stores the data and programs your computer is using right now so it can access them quickly. The more RAM you have, the more things your computer can do at once without slowing down.
 ![image](https://github.com/user-attachments/assets/55a42bf2-ceb4-491b-a6e1-e7cf587cfdee)
 
-#### Hard Drive:
+### Hard Drive:
 A **hard drive** (or **hard disk drive**/ HDD) is the part of a computer that stores all your data like your photos, documents, programs, and even the computer’s operating system. Unlike RAM, which is temporary, a hard drive keeps your files even when the computer is turned off. It's like your computer’s long-term memory.
 ![image](https://github.com/user-attachments/assets/b983dec5-4233-42a5-b912-758d1b8be20f)
+### ROM:
+ROM stands for Read-Only Memory. It is a type of memory in a computer that stores important instructions that don’t change, like the code your computer needs to start up.
+###### Here are some key points of RAM:
+
+* **“Read-only”** means you can read the information from it, but you usually can’t change it.
+* It **keeps its data even when the power is off**.
+* ROM is used to store **firmware**, which is the basic software that helps start and control the computer.
+![image](https://github.com/user-attachments/assets/4a950171-9064-4501-9e2e-3e9feab7b44f)
+### Difference between RAM , ROM and HDD:
+
+| Feature                       | RAM (Random Access Memory)         | ROM (Read-Only Memory)          | HDD (Hard Disk Drive)                    |
+|------------------------------|------------------------------------|----------------------------------|------------------------------------------|
+| **Type of Memory**           | Temporary (Volatile)               | Permanent (Non-volatile)         | Permanent (Non-volatile)                 |
+| **Purpose**                  | Runs active programs and processes | Stores startup instructions       | Stores files, software, and operating system |
+| **Data Lost When Power Off?**| Yes                                | No                               | No                                       |
+| **Can You Change Data?**     | Yes (temporarily)                  | Usually No (some types updatable)| Yes                                      |
+| **Speed**                    | Very Fast                          | Fast (but less than RAM)         | Slower than RAM and ROM                  |
+| **Example**                  | Running apps like games or browsers| BIOS or bootloader code          | Movies, photos, documents, applications  |
+
+#### Simple Analogy:
+-  **RAM**: Like your desk — holds what you're working on right now.
+-  **ROM**: Like a manual — gives instructions, but you can’t change it.
+-  **HDD**: Like a filing cabinet — stores everything even when the power is off.
+#### RAM vs Cache Memory
+
+| Feature                       | RAM (Random Access Memory)           | Cache Memory                          |
+|------------------------------|--------------------------------------|----------------------------------------|
+| **Location**                 | On the motherboard                   | Inside or very close to the CPU        |
+| **Speed**                    | Slower than cache memory                               | faster than RAM            |
+| **Size**                     | Larger (GBs)                         | Smaller (KBs to a few MBs)             |
+| **Purpose**                  | Stores data for running programs     | Stores frequently used CPU instructions and data |
+| **Cost**                     | Cheaper than cache memory per MB                       | More expensive per MB                  |
+| **Access Time**              | Slower compared to cache             | Extremely quick (nanoseconds)          |
+| **Controlled By**            | Managed by OS and programs           | Managed automatically by hardware      |
+| **Type of Memory**           | Volatile (data lost when power off) | Volatile                               |
+![image](https://github.com/user-attachments/assets/add809a8-fb63-4513-b69a-9c79a141c07e)
+
+##### Simple Analogy:
+-  **RAM**: Like a big table — you put all your work materials on it.
+-  **Cache**: Like a small tray right next to your hand — it holds only the most used items for super-fast access.
+##### Why cache memory is needed:
+Cache memory is needed because it’s **faster than RAM** and is located **closer to the CPU**. It stores **frequently used data**, so the CPU can access it quickly without waiting, which makes the computer run faster and more efficiently.
+### Process of booting:
+
+### 🔄 **What is Booting?**
+
+Booting is what happens **when you turn on your computer** — it’s the process that gets everything ready so you can use it.
+
+
+**Step-by-Step (Simple Words):**
+
+1. **Power On** 
+   You press the power button. The computer wakes up.
+
+2. **Self-Check** 
+   It checks if parts like the keyboard, screen, and memory are working.
+
+3. **BIOS/UEFI Starts** 
+   A tiny program in the computer (stored in ROM) starts running to help the system start.
+
+4. **Finds the OS** 
+   It looks at the hard drive to find your operating system (like Windows or Linux).
+
+5. **Loads the OS** 
+   It brings the OS from the hard drive into memory (RAM).
+
+6. **You See Login Screen** 
+   Your computer is ready for you to use
+
+~ Simple  example to remember:
+
+It’s like waking up, brushing your teeth, putting on clothes, and getting ready for the day. That’s what your computer is doing when it boots.
+
 
 
 

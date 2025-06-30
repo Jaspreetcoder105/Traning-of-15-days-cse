@@ -206,8 +206,54 @@ The pipe is used to combine two or more commands, and in this, the output of one
 ![Screenshot (24)](https://github.com/user-attachments/assets/7583ba25-510c-47da-a2af-50b1633ffc7e)
 #### Programm to compare values:
 
+### Day4 (30-june-25)
+#### Hardware of computers 🖥:*Computer Hardware:*
 
+Computer hardware refers to the physical components of a computer system. Here are some hardware components:
 
+##### Internal Hardware:
+1. *CPU (Central Processing Unit):* The brain of the computer, executes instructions.
+2. *Motherboard:* The main circuit board that connects all hardware components.
+3. *RAM (Random Access Memory):* Temporary storage for data and applications.
+4. *Storage Drive:* A device that stores data, such as a hard drive or solid-state drive (SSD).
+5. *Power Supply:* Converts AC power to DC power for the computer's components.
+
+##### External Hardware:
+1. *Monitor:* Displays visual output from the computer.
+2. *Keyboard:* Input device for typing and controlling the computer.
+3. *Mouse:* Input device for navigating and interacting with the computer.
+4. *Speakers:* Output device for audio.
+5. *Printers:* Output device for printing documents.
+
+##### Other Hardware Components:
+1. *Graphics Card:* Controls the output display and handles graphics processing.
+2. *Sound Card:* Controls audio output and processing.
+3. *Network Card:* Connects the computer to a network.
+4. *Cooling System:* Helps regulate the computer's temperature.
+
+#### In Simple Terms:
+Computer hardware refers to the physical parts of a computer system, including internal components like the CPU and RAM, and external devices like monitors and keyboards. These components work together to enable the computer to process and store data.
+#### Motherboard:
+The motherboard is the main circuit board of a computer that connects all hardware components together. It's like the backbone of the system, allowing different parts to communicate and work together.
+
+##### Parts of motherboard:
+1. CPU Socket: To Installs CPU.
+
+2. RAM Slots: To Installs RAM modules.
+
+3. Chipset: Manages data transfer, and the performanceof computer depends on it..
+
+4. Storage Connectors (SATA): To Connects storage drives.
+
+5. Expansion Slots :To  Adds expansion cards (graphics, sound).
+
+6. Power Connectors: Connects power supply.
+
+7. BIOS/UEFI Chip: Stores firmware settings.
+
+8. USB Ports: Connects peripherals (keyboard, mouse).
+
+9. Audio Connectors: Connects audio devices (speakers, headphones)
 
 
 

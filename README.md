@@ -205,8 +205,26 @@ The pipe is used to combine two or more commands, and in this, the output of one
 
 ![Screenshot (24)](https://github.com/user-attachments/assets/7583ba25-510c-47da-a2af-50b1633ffc7e)
 #### Programm to compare values:
+![Screenshot (27)](https://github.com/user-attachments/assets/6f1a12ee-e8d9-469e-bfaf-cd6295134dd8)
 
 ### Day4 (30-june-25)
+#### Gzip and Gunzip command:
+##### gzip
+What it does: Compresses (makes smaller) files to save disk space.
+![Screenshot (28)](https://github.com/user-attachments/assets/424cd757-c4eb-411b-93af-38fd1c64213d)
+
+It Results in:
+The original file (filename) is replaced by a compressed file called filename.gz.
+##### gunzip
+gunzip
+What it does: Decompresses (uncompresses) files that were compressed with gzip.
+![Screenshot (29)](https://github.com/user-attachments/assets/f1288252-a915-43b5-bcf8-c95525f1128b)
+
+It Results in:
+The compressed file (filename.gz) is restored back to the original file (filename).
+
+
+
 #### Hardware of computers 🖥:*Computer Hardware:*
 
 Computer hardware refers to the physical components of a computer system. Here are some hardware components:
@@ -307,6 +325,8 @@ ROM stands for Read-Only Memory. It is a type of memory in a computer that store
 ##### Simple Analogy:
 -  **RAM**: Like a big table — you put all your work materials on it.
 -  **Cache**: Like a small tray right next to your hand — it holds only the most used items for super-fast access.
+-  ![image](https://github.com/user-attachments/assets/d20b9d2d-357c-49cb-a4b6-0424cb63b54f)
+
 ##### Why cache memory is needed:
 Cache memory is needed because it’s **faster than RAM** and is located **closer to the CPU**. It stores **frequently used data**, so the CPU can access it quickly without waiting, which makes the computer run faster and more efficiently.
 ![image](https://github.com/user-attachments/assets/add809a8-fb63-4513-b69a-9c79a141c07e)

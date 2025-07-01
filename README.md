@@ -363,7 +363,113 @@ Step-by-Step (Simple Words):
 It’s like waking up, brushing your teeth, putting on clothes, and getting ready for the day. That’s what your computer is doing when it boots.
 
 ![image](https://github.com/user-attachments/assets/823736e6-fa84-4099-8e03-247dfe543b94)
+## DAY-5(1-july-2025):
+### GPU(Graphics Processing unit)
+It is a specialized chip designed to perform many calculations at once, especially for rendering graphics and handling parallel tasks.
+It was originally made for gaming and image rendering ,but now widely used in AI, data science, and video editing for super-fast processing 
+It’s like having thousands of tiny workers inside your computer, all solving problems together. 
+In simple words its :
+ ~Responsible for rendering graphics and visual output.
+ 
+ ~Problems include overheating, driver issues, screen tearing, or no display output.
 
+ ![image](https://github.com/user-attachments/assets/221c8453-6dc3-4843-9545-d9aa12d05597)
 
+ ### PCU (Personal Computer unit):
+1. Installation & Hard Disk Preparation:
+   
+##### Partitioning: 
+      The first step of Partitinong is to organize the hard disk into:
+      Primary (C: Drive):
+      
+      - Where the Operating System (Windows/Linux/Unix) is installed.
+      
+       - Avoid storing personal/important files in C-Drive
+
+       ![image](https://github.com/user-attachments/assets/1a945b27-e794-4d28-ba36-b33fadfd36fb)
+
+##### Why C-drive?
+Because , In case ,If Windows crashes, files in D,E,F-Drive are safer and can often be recovered. if we put files in same Drive then there will be Data loss if window get crashed.
+
+![image](https://github.com/user-attachments/assets/6ea1ea19-4f63-49e8-a1b4-8f0d936e9126)
+
+##### Logical Drives (D:, E:, F:):
+      Used for pictures, videos, documents, etc.
+#### performace regression /Slow performance :
+-The speed of system slowed down due to some reasons like ; memory full, less RAM, Viruses.
+
+this issues can be resolved by using system efficiently , and use antiviruses .
+
+-Keeping the files and Documents in Desktop also make system slow , so keep the files and folders out of Desktop.
+
+-Taskbar: keep taskbar clean . close the apps which are not in use.
+
+-Bookmarks: Booksmarks also slows down the speed . because system keep running them in background .
+
+-Temporary files : The files that get created by default during web browsing are temporary files . These can also be the cause of slower performance.
+
+while web browsing some websites ask permmision to accept cookies by which these temporary files are created.
+
+-Malvares : keep your system updated and scan for viruses every month atleast.
+
+#### Concept of Optimisation:
+Optimization means making something as good, efficient, or effective as possible.
+
+In the computer world, it often refers to:
+
+- Speeding up software or hardware so it runs faster or uses fewer resources
+
+-Improving algorithms to solve problems more efficiently
+
+-Reducing energy use in devices or systems
+
+![image](https://github.com/user-attachments/assets/d53b289d-72cc-44f3-be84-1e35c2ea8a81)
+
+#### DEFRAGMENTATION:
+Defragmentation is the process of reorganizing fragmented data on a hard disk so that related pieces are stored close together. This improves file access speed and overall system performance on traditional HDDs. It’s not needed for SSDs, which use a different method called TRIM.
+#### DRIVERS:
+Drivers are software that let the operating system communicate with hardware like printers, keyboards, or graphics cards. Without them, hardware won’t work properly.
+#### ISSUES FACED WHILE USING PRINTER:
+Here’s a compact list of common printer issues and how to fix them:
+
+![image](https://github.com/user-attachments/assets/dcd9d0ab-75e5-41ab-8856-7abca11e3fd5)
+
+1. **Printer not printing**  
+   - *Cause:* Connectivity issues or outdated drivers  
+   - *Solution:* Check cables/Wi-Fi, restart printer and PC, reinstall or update drivers
+
+2. **Paper jams**  
+   - *Cause:* Misaligned or poor-quality paper  
+   - *Solution:* Gently remove jammed paper, align guides, use recommended paper type
+
+3. **Low ink warnings (even when ink remains)**  
+   - *Cause:* Inaccurate ink sensors  
+   - *Solution:* Keep printing until quality drops; replace only when necessary
+
+4. **Slow printing**  
+   - *Cause:* High-resolution settings or complex documents  
+   - *Solution:* Lower print quality settings, use draft mode for basic prints
+
+5. **Poor print quality**  
+   - *Cause:* Dirty print heads or low ink  
+   - *Solution:* Run print head cleaning utility, check ink levels
+
+6. **Printer offline**  
+   - *Cause:* Network or driver issues  
+   - *Solution:* Reconnect to network, set printer as default, restart spooler service
+###  Blue Screen of Death (BSOD):
+It is used to indicate a system crash, in which the operating system reaches a critical condition where it can no longer operate safely.
+
+**Common Causes of BSOD:**
+
+1. Hardware Failures: <br>
+   Faulty RAM, hard disk, or other internal components
+2. Driver Issues: <br>
+   Outdated, incompatible, or corrupted device drivers
+4. Corrupted System Files: <br>
+   System file corruption due to improper shutdowns, malware, or failed updates
+5. Overheating or Power Issues: <br>
+   Inadequate cooling or power supply malfunctions
+      
 
 

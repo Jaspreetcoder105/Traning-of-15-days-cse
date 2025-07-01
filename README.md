@@ -379,14 +379,14 @@ In simple words its :
 1. Installation & Hard Disk Preparation:
    
 ##### Partitioning: 
-      The first step of Partitinong is to organize the hard disk into:
-      Primary (C: Drive):
+ The first step of Partitinong is to organize the hard disk into:
+ Primary (C: Drive):
       
-      - Where the Operating System (Windows/Linux/Unix) is installed.
+  - Where the Operating System (Windows/Linux/Unix) is installed.
       
-       - Avoid storing personal/important files in C-Drive
+  - Avoid storing personal/important files in C-Drive
 
-       ![image](https://github.com/user-attachments/assets/1a945b27-e794-4d28-ba36-b33fadfd36fb)
+  ![image](https://github.com/user-attachments/assets/1a945b27-e794-4d28-ba36-b33fadfd36fb)
 
 ##### Why C-drive?
 Because , In case ,If Windows crashes, files in D,E,F-Drive are safer and can often be recovered. if we put files in same Drive then there will be Data loss if window get crashed.

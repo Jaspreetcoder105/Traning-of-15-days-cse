@@ -460,6 +460,8 @@ Here’s a compact list of common printer issues and how to fix them:
 ###  Blue Screen of Death (BSOD):
 It is used to indicate a system crash, in which the operating system reaches a critical condition where it can no longer operate safely.
 
+![image](https://github.com/user-attachments/assets/758e6a03-e650-4c7d-b3f1-a83181e34d2b)
+
 **Common Causes of BSOD:**
 
 1. Hardware Failures: <br>
@@ -470,6 +472,91 @@ It is used to indicate a system crash, in which the operating system reaches a c
    System file corruption due to improper shutdowns, malware, or failed updates
 5. Overheating or Power Issues: <br>
    Inadequate cooling or power supply malfunctions
-      
+## Day7(3-july-25):
+### Network:
+
+ when two or more hosts are connected and can communicate, the connection between them is said to be network.
+ ### Host:
+ Host is any device which sends or receive data traffic over a network. For example a computer, it can also include other networked devices.
+ ### Server:
+  Server is a computer designed to respond to requests from clients. It serves the requested data or services to the user.
+  ### Client: 
+  Client is a host that initiates requests for services from another device on the network. Simply we can say the user which interact with the server.
+  ### Traffic:
+  It refers to the data sending or receiving. when someone send data to other using network.
+  ### IP address:
+full form: Internet Protocol.
+where protocol refers to the set of rules which govern the data transmission.
+Properties:
+
+Unique: Each device on a network must have a unique IP address.
+
+Universal: IP addresses are a globally recognized standard for network communication.
+
+Types:
+
+Public IP Address: Used on the internet, these addresses are globally unique and routable.
+
+Private IP Address: Used within private networks (e.g., home or school networks), these addresses are not directly routable on the internet.
+
+Dynamic Nature: IP address can change over time, especially for devices on dynamic IP assignments. However, its fundamental properties (uniqueness and universality) remain constant.
+
+### IPV4:
+Internet Protocol version 4
+An IPv4 address consists of series of four eight-bit binary numbers which are separated by decimal point. Although any numbering system can be used to represent a unique 32- bit number, most commonly you see IP address expressed in dot decimal notation.
+#### IPv4 Address Format:
+
+An IPv4 address consists of 32 bit (binary digit), grouped into four section of known as octets or bytes. Each octet has 8 bits and this bits can be represented only in 0 or 1 form, and when they grouped together, they form a binary number. Since each octet has 8 bits, it can represent 256 numbers ranging from o to 255. These four octets are represented as decimal numbers, separated by periods known as dotted decimal notation. For example IPv4 address 185.107.80.231 consists of four octets.
+#### Binary Representation:
+IPv4 is basically converted into binary form by computer although these are usually seen in decimal form for human readability. Each octet is converted into 8 bit binary number . For instance 185.107.80.231 in binary looks like:
+![image](https://github.com/user-attachments/assets/2247b1e7-421c-4a3b-9db4-bdf5f9dff972)
+
+185: 10111001
+107: 01101011
+80: 01010000
+231: 11100111
+
+### IPV6:
+Internet Protocol Version 6
+The Internet Protocol version 6, or IPv6, is the latest version of the Internet Protocol (IP), which is the system used for identifying and locating computers on the Internet. IPv6 was developed by the Internet Engineering Task Force (IETF) to deal with the problem of IPv4 exhaustion. IPv6 is a 128-bit address having an address space of 2128, which is way bigger than IPv4. IPv6 uses a Hexa-Decimal format separated by a colon (:).
+#### Components in IPv6 Address Format:
+There are 8 groups and each group represents 2 Bytes (16-bits). 
+Each Hex-Digit is of 4 bits (1 nibble)
+Delimiter used - colon (:)
+
+![image](https://github.com/user-attachments/assets/1c29e8ab-6b31-40ae-9c51-29f8dc6defed)
+
+ ### Classes in IP:
+![image](https://github.com/user-attachments/assets/2b5b145f-15e2-4cbd-88c7-e3fcc4fda740)
+### DIFFERENCE BTW UNICAST, MULTICAST, BROADCAST.
+![image](https://github.com/user-attachments/assets/598ac0f3-d66e-4a5f-ac18-61793fdb4e04)
+
+### Subnetting:
+A subnet is like a smaller group within a large network. It is a way to split a large network into smaller networks so that devices present in one network can transmit data more easily. For example, in a company, different departments can each have their own subnet, keeping their data traffic separate from others. Subnet makes the network faster and easier to manage and also improves the security of the network.
+
+Bandwidth: Capacity of network; data transmission rate (e.g., Mbps). Should be maximum.
+
+Latency: Delay in data transmission. Should be minimum.
+
+Host Bits: Denoted by '0's in subnet mask.
+
+Network IP: First IP of a subnet (cannot be assigned to host).
+
+Broadcast IP: Last IP of a subnet (cannot be assigned to host).
+### MAC address:
+MAC Addresses are unique 48-bit hardware numbers of a computer that are embedded into a network card (known as a Network Interface Card) during manufacturing. The MAC Address is also known as the Physical Address of a network device. In the IEEE 802 standard, the data link layer is divided into two sublayers:
+
+Logical Link Control (LLC) Sublayer
+
+Media Access Control (MAC) Sublayer
+
+The MAC address is used by the Media Access Control (MAC) sublayer of the Data-Link Layer. MAC Address is worldwide unique since millions of network devices exist and we need to uniquely identify each. 
+
+A MAC address uniquely identifies network interfaces. For more on networking fundamentals and concepts like MAC addresses, the GATE CS Self-Paced Course is a comprehensive guide.
+![image](https://github.com/user-attachments/assets/7fd70f8e-2403-4309-8fe3-3b83311dec1b)
+### DNS:
+It is a naming system for computers, service etc connected to the Internet or a private network. It translates domain names (www.google.com) into machine-readable IP addresses (172.217.160.142).
+### DEFAULT GATEWAY:
+Its a device (typically a router) that acts as a pathway for data to leave a local network and reach other networks, including the internet.
 
 

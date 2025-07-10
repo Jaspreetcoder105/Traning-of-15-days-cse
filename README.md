@@ -622,87 +622,31 @@ HTML Structure:
 
 HTML (Hypertext Markup Language) is used to define the structure and content of web pages. Here's a basic structure of an HTML document:
 
-|Basic Structure:|
-|--------------------------------|
-| <!DOCTYPE html>|
-| <html>|
- | <head>|
-  |  <title>Page Title</title>|
- | </head>|
-|  <body>|
-    |<!-- Content goes here -->|
-|  </body>|
-|</html|
+<img width="272" height="180" alt="image" src="https://github.com/user-attachments/assets/b7f7c2e1-9891-4a07-85f1-60642e839f99" />
 
 
 Explanation:
-1. *<!DOCTYPE html>*: Declares the document type and version of HTML.
+1. !DOCTYPE html: Declares the document type and version of HTML.
 
-2. *<html>*: The root element of the HTML document.
+2. html: The root element of the HTML document.
 
-3. *<head>*: Contains metadata about the document, such as title, charset, and links to stylesheets or scripts.
+3. head: Contains metadata about the document, such as title, charset, and links to stylesheets or scripts.
 
-4. *<title>*: Sets the title of the page, displayed in the browser's title bar or tab.
+4.title: Sets the title of the page, displayed in the browser's title bar or tab.
 
-5. *<body>*: Contains the content of the HTML document, such as text, images, and other elements.
+5. body: Contains the content of the HTML document, such as text, images, and other elements.
 ## Day10:
 #### Some Common HTML Tags:
 
-##### Structural Tags:
-1. *<html>*: Root element of the HTML document.
-2. *<head>*: Contains metadata about the document.
-3. *<body>*: Contains the content of the HTML document.
+<img width="307" height="180" alt="image" src="https://github.com/user-attachments/assets/6dbed445-f338-4f7f-9777-ed6a765781b0" />
 
-###### Heading Tags:
-1. *<h1>*: Main heading.
-2. *<h2>*: Subheading.
-3. *<h3>*, *<h4>*, *<h5>*, *<h6>*: Further subheadings.
-
-###### Content Tags:
-1. *<p>*: Paragraph.
-2. *<span>*: Inline container.
-3. *<div>*: Block-level container.
-
- ##### Link and Image Tags:
-1. *<a>*: Hyperlink.
-2. *<img>*: Image.
-
-##### List Tags:
-1. *<ul>*: Unordered list.
-2. *<ol>*: Ordered list.
-3. *<li>*: List item.
-
-##### Table Tags:
-1. *<table>*: Table.
-2. *<tr>*: Table row.
-3. *<th>*: Table header cell.
-4. *<td>*: Table data cell.
-
-##### Form Tags:
-1. *<form>*: Form.
-2. *<input>*: Form input field.
-3. *<textarea>*: Multiline text input.
-4. *<select>*: Dropdown menu.
 ## Day11:
 
 ### Semantic HTML Elements:
 
 Semantic HTML elements provide meaning to the structure of a web page, making it easier for search engines and screen readers to understand the content. Here are some common semantic HTML elements:
 
-###### Structural Elements:
-1. *<header>*: Defines a header section for the document or a section.
-2. *<nav>*: Defines a navigation section.
-3. *<main>*: Defines the main content section.
-4. *<footer>*: Defines a footer section.
-
-##### Content Elements:
-1. *<article>*: Defines an independent piece of content, such as a blog post.
-2. *<section>*: Defines a section of related content.
-3. *<aside>*: Defines content that is tangentially related to the main content.
-
-##### Other Elements:
-1. *<figure>*: Defines a self-contained piece of content, such as an image or diagram.
-2. *<figcaption>*: Defines a caption for a <figure> element.
+<img width="411" height="481" alt="image" src="https://github.com/user-attachments/assets/d20dfc8d-10ab-4dae-bf29-0dea1fb8f8fc" />
 
 ###### Benefits:
 1. Improved Accessibility: Semantic HTML elements help screen readers and other assistive technologies understand the structure of the content.
@@ -711,15 +655,15 @@ Semantic HTML elements provide meaning to the structure of a web page, making it
 
 By using semantic HTML elements, you can create a more structured and accessible web page that is easier to understand for both humans and machines.
 
-1. *<header>*: Defines a header section for the document or a section.
+1. header: Defines a header section for the document or a section.
 
-2. *<nav>*: Defines a navigation section.
+2. nav: Defines a navigation section.
 
-3. *<main>*: Defines the main content section.
+3. main: Defines the main content section.
 
-4. *<footer>*: Defines a footer section.
+4. footer: Defines a footer section.
 
-5. *<section>*, *<article>*, *<aside>*: Define different types of content sections.
+5. section, article, aside: Define different types of content sections.
 ### Day 12:
 #### webpage example using html:
 <img width="1366" height="768" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/8600e9d8-0b28-4b83-b2b8-e58798b9d100" />

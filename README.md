@@ -672,6 +672,79 @@ By using semantic HTML elements, you can create a more structured and accessible
 <img width="1366" height="768" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/a0fe3155-7830-4fc3-963b-47287602d49f" />
 <img width="1366" height="768" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/95949010-9e15-4a52-9ab5-77d569814e7f" />
 <img width="1366" height="768" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/5fe0a3e7-855e-4750-8f2e-0dea99a5e5c3" />
+## Day13:
+### GIT:
+Git is a distributed version control system designed to handle everything from small to very large projects with speed and efficiency
+It helps you keep track of code changes, collaborate with other developers, and manage different versions of your codebase.
+-Git is used to tracking changes in the source code
+
+-The distributed version control tool is used for source code management
+
+-It allows multiple developers to work together
+
+-It supports non-linear development through its thousands of parallel branches
+
+### Features of Git
+-Tracks history
+
+-Free and open source
+
+-Supports non-linear development
+
+-Creates backups
+
+-Scalable
+
+-Supports collaboration
+
+-Branching is easier
+
+-Distributed development
+<img width="406" height="235" alt="image" src="https://github.com/user-attachments/assets/453b9a79-cf01-4cf4-a056-30b8eba7c93e" />
+
+### How to use github?
+Github is very easy to use website . it is used by almost every coder .
+##### Getting Started with Git
+Step 1. Install Git
+Download and install Git from Git's official website. Follow the instructions for your operating system.
+
+Step 2. Configure Git
+Set up your name and email to identify your commits:
+
+Step 3. Create a New Repository
+To start a new project, create a new directory and initialize it as a Git repository:
+<img width="1366" height="768" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/2532bffa-6f73-48d0-b270-b468d64a0645" />
+
+ now open the git app and run the command git clone link of your repository
+ <img width="1366" height="768" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/0c3fc782-6908-45ed-b8b1-4227a71a0e97" />
+
+Step 4. Clone an Existing Repository
+To contribute to an existing project, clone a repository from GitHub:
+##### Clone command:
+this command is used to create the clone of original repository.
+<img width="1366" height="768" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/46afb041-28b3-4e85-bd11-20ef80196437" />
+
+Step 5. Track Changes
+Add files to your repository and track changes:
+###### touch cmmand:
+to create a file touch command is used
+syntax: touch filename.
+<img width="1366" height="768" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/3d01bc0c-3b53-473e-80d2-4e4bc7e3dd7c" />
+
+#### GIT STATUS:
+this command is used to just check the status of the repository.
+<img width="1366" height="768" alt="Screenshot (45)" src="https://github.com/user-attachments/assets/31c6c8bb-bdf2-4f79-8c2f-e362ed3c017e" />
+#### nano command:
+use to enter data in to the file .
+<img width="1366" height="768" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/87cca5c5-d30b-4b8c-a9b0-c243aad949a0" />
+it opens the editor where data can be enterred.
+#### git commit -m
+use to add file to the origial repository.
+<img width="1366" height="768" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/f9f63dbb-0546-47b0-9e0a-64f9d445d906" />
+<hr>
+the file is get added to the repository
+<img width="1366" height="768" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/26ac4ab0-9667-4401-ac06-efb27001e228" />
+
 
 
 

@@ -749,21 +749,26 @@ the file is get added to the repository
  in simple we can create the new branch to edit or work on our repository without commiting changes in main branch as main branch is one who contain the main repository.
  <h2> commands:</h2>
 
-git branch <branch-name>` – creates a new branch.
+git branch <branch-name> – creates a new branch.
 
-git checkout <branch-name>` – switches to the branch.
+git checkout <branch-name> – switches to the branch.
 
-git switch <branch-name>` – alternative to checkout (recommended in newer versions).
+git switch <branch-name>– alternative to checkout (recommended in newer versions).
 
-git merge <branch-name>` – merges the specified branch into the current branch.
+git merge <branch-name> – merges the specified branch into the current branch.
 
-![WhatsApp Image 2025-07-14 at 11 27 20_2c957d18](https://github.com/user-attachments/assets/0a9546df-2f23-4c14-b2c1-d0ff35589d12)
-
-![WhatsApp Image 2025-07-14 at 11 27 21_80c43a01](https://github.com/user-attachments/assets/0b584741-5970-4bd5-9b19-7c414f6b6db9)
-
-![WhatsApp Image 2025-07-14 at 11 27 22_2564fa85](https://github.com/user-attachments/assets/3f170267-17d9-4579-afa4-41098c07b71c)
-
-![WhatsApp Image 2025-07-14 at 11 27 22_601fee4b](https://github.com/user-attachments/assets/018f9093-2852-439a-aed7-03718a80440f)
+git push -
+### Creating the branch and switching the branches :
+<img width="1366" height="768" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/cfdc473f-ec96-4ef7-8e63-abf2ea8e88b9" />
+#### The branch is get created here:
+<img width="1366" height="768" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/b8d461d9-46d5-4984-b814-1356183e34fc" />
+### adding file to the repository:
+<img width="1366" height="768" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/5a6f3e9d-2d2b-441a-823e-34302fe14426" />
+#### file get added:
+<img width="1366" height="768" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/693bfb31-066b-4bd0-92b3-d2113827d71c" />
+### git push and git merge repository:
+<img width="1366" height="768" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/996e54a6-115e-41fd-b21a-8c6b1861d5d1" />
+<img width="1366" height="768" alt="Screenshot (60)" src="https://github.com/user-attachments/assets/633918a3-b4e7-4bf7-8de3-4ad15b13ddab" />
 
 
 

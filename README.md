@@ -748,13 +748,21 @@ the file is get added to the repository
  <h2>BRANCHING:</h2> branching allows you to work on new features without affecting the main branch.
  in simple we can create the new branch to edit or work on our repository without commiting changes in main branch as main branch is one who contain the main repository.
  <h2> commands:</h2>
- * `git branch <branch-name>` – creates a new branch.
-* `git checkout <branch-name>` – switches to the branch.
-* `git switch <branch-name>` – alternative to checkout (recommended in newer versions).
-* `git merge <branch-name>` – merges the specified branch into the current branch.
+
+git branch <branch-name>` – creates a new branch.
+
+git checkout <branch-name>` – switches to the branch.
+
+git switch <branch-name>` – alternative to checkout (recommended in newer versions).
+
+git merge <branch-name>` – merges the specified branch into the current branch.
+
 ![WhatsApp Image 2025-07-14 at 11 27 20_2c957d18](https://github.com/user-attachments/assets/0a9546df-2f23-4c14-b2c1-d0ff35589d12)
+
 ![WhatsApp Image 2025-07-14 at 11 27 21_80c43a01](https://github.com/user-attachments/assets/0b584741-5970-4bd5-9b19-7c414f6b6db9)
+
 ![WhatsApp Image 2025-07-14 at 11 27 22_2564fa85](https://github.com/user-attachments/assets/3f170267-17d9-4579-afa4-41098c07b71c)
+
 ![WhatsApp Image 2025-07-14 at 11 27 22_601fee4b](https://github.com/user-attachments/assets/018f9093-2852-439a-aed7-03718a80440f)
 
 
